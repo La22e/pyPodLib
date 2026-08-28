@@ -43,6 +43,12 @@ dev = [
     "mypy>=1.15.0",
     "pytest>=8.3.5",
     "ruff>=0.11.7",
+    "mkdocs>=1.6",
+    "mkdocs-material>=9.5",
+    "mkdocstrings[python]>=0.28",
+    "mkdocs-gen-files",
+    "mkdocs-literate-nav",
+    "mkdocs-section-index",
 ]
 
 [tool.hatch.build.targets.wheel]
