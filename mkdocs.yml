@@ -1,6 +1,6 @@
 site_name: pyPodLib
 site_description: Read, write, and sync iPod Classic/Nano/Mini libraries from Python — no iTunes required.
-repo_url: https://github.com/TheRealSavi/pyPodLib
+repo_url: https://github.com/La22e/pyPodLib
 repo_name: pyPodLib
 edit_uri: blob/main/docs/
 

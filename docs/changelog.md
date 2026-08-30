@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 (unreleased)
+## 0.1.0 (2026-08-30)
 
 - Initial release extracted from [iOpenPod](https://github.com/TheRealSavi/iOpenPod) (MIT, © John Gibbons).
 - Device detection and identification (USB + filesystem)

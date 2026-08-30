@@ -19,7 +19,7 @@ pip install 'pypodlib[artwork]'               # + embedded-art extraction/encodi
 ## From source
 
 ```console
-git clone https://github.com/TheRealSavi/pyPodLib.git
+git clone https://github.com/La22e/pyPodLib.git
 cd pyPodLib
 pip install -e .          # core
 pip install -e '.[artwork]'   # with artwork support

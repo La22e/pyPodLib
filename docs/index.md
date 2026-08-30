@@ -27,4 +27,4 @@ track.rating = 80   # 4 stars
 ipod.save()
 ```
 
-Full documentation: [pypodlib.readthedocs.io](https://pypodlib.readthedocs.io/) — or browse the [GitHub repo](https://github.com/TheRealSavi/pyPodLib).
+Full documentation: [la22e.github.io/pyPodLib](https://la22e.github.io/pyPodLib/) — or browse the [GitHub repo](https://github.com/La22e/pyPodLib).

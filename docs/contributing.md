@@ -1,11 +1,11 @@
 # Contributing
 
-Contributions are welcome! Please open an issue or pull request on [GitHub](https://github.com/TheRealSavi/pyPodLib).
+Contributions are welcome! Please open an issue or pull request on [GitHub](https://github.com/La22e/pyPodLib).
 
 ## Local development
 
 ```console
-git clone https://github.com/TheRealSavi/pyPodLib.git
+git clone https://github.com/La22e/pyPodLib.git
 cd pyPodLib
 pip install -e '.[dev]'
 ```

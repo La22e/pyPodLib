@@ -35,6 +35,10 @@ pip install 'pypodlib[artwork]'               # + embedded-art extraction/encodi
 Runtime dependencies: `pyusb` / `libusb-package` (USB identification),
 `pycryptodome` (HASH72 signing), `wasmtime` (HASHAB signing).
 
+## Documentation
+
+Full documentation: [la22e.github.io/pyPodLib](https://la22e.github.io/pyPodLib/)
+
 ## Quick start
 
 ```python
